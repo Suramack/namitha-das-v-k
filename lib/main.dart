@@ -1,4 +1,4 @@
-import 'package:aanakutty_portfolio/src/feature/home/screen/home_screen.dart';
+import 'package:namitha_das_v_k/src/feature/home/screen/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

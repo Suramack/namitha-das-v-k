@@ -1,6 +1,6 @@
-import 'package:aanakutty_portfolio/util/enum/menu_enum.dart';
+import 'package:namitha_das_v_k/util/enum/menu_enum.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:aanakutty_portfolio/core/model/home/state/home_state/home_state.dart';
+import 'package:namitha_das_v_k/core/model/home/state/home_state/home_state.dart';
 
 final homeProvider = StateNotifierProvider<HomeNotifierProvider, HomeState>(
   (ref) => HomeNotifierProvider(ref),

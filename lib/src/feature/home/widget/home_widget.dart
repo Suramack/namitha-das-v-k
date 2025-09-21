@@ -1,5 +1,5 @@
-import 'package:aanakutty_portfolio/src/common/brand_font_size.dart';
-import 'package:aanakutty_portfolio/src/common/brand_text.dart';
+import 'package:namitha_das_v_k/src/common/brand_font_size.dart';
+import 'package:namitha_das_v_k/src/common/brand_text.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
